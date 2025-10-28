@@ -11,7 +11,7 @@ def divide(a, b):
     if b != 0:
         return a / b
     else:
-        return "cmooon, you can't divide by zero!"
+        return "you can't divide by zero!"
 
 def calculator():
     print("You can perform the following operations:")
